@@ -1,0 +1,2 @@
+Hello programming World this is a project for Odin Project Course.
+Olá mundo da programação este é um projecto do curso Odin Project.
